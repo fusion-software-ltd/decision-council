@@ -1,0 +1,11 @@
+{
+  "name": "decision-council",
+  "description": "Assemble AI advisors to debate decisions, cross-examine reasoning, and produce scored recommendations. Handles directional (should we?), comparative (A vs B?), and binary (go/no-go) decisions with structured cross-examination and consensus checks.",
+  "version": "1.18.0",
+  "author": {
+    "name": "Fusion Software"
+  },
+  "homepage": "https://fusionsoftware.com/decisioncouncil",
+  "repository": "https://github.com/fusion-software-ltd/decision-council",
+  "license": "proprietary"
+}
