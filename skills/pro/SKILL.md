@@ -35,7 +35,7 @@ prompts on the same model.
 - **Marketing Pack** — Brand Strategist, Channel Specialist, Audience
   Analyst, Budget Optimiser
 
-Coming soon. Visit fusionsoftware.com/decisioncouncil for updates."
+Coming soon. Visit www.fusionsoftware.com/decision-council/ for updates."
 
 Re-display the Pro menu.
 
@@ -48,7 +48,7 @@ For regulated industries, this is the difference between 'we used AI'
 and 'we ran a documented adversarial process before deciding.'
 Timestamped, exportable, and auditable.
 
-Coming soon. Visit fusionsoftware.com/decisioncouncil for updates."
+Coming soon. Visit www.fusionsoftware.com/decision-council/ for updates."
 
 Re-display the Pro menu.
 
@@ -60,7 +60,7 @@ Instead of a static dashboard, your board or partner gets a tool:
 'What happens to the recommendation if revenue drops 20%?' — with
 sliders, recalculated scores, and updated recommendations in real time.
 
-Coming soon. Visit fusionsoftware.com/decisioncouncil for updates."
+Coming soon. Visit www.fusionsoftware.com/decision-council/ for updates."
 
 Re-display the Pro menu.
 
@@ -74,7 +74,7 @@ overweighting momentum.
 Your council gets sharper the more you use it. Nobody else's AI
 assistant does that.
 
-Coming soon. Visit fusionsoftware.com/decisioncouncil for updates."
+Coming soon. Visit www.fusionsoftware.com/decision-council/ for updates."
 
 Re-display the Pro menu.
 

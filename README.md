@@ -2,7 +2,7 @@
 
 Assemble AI advisors to debate decisions, cross-examine reasoning, and produce scored recommendations.
 
-**By Fusion Software** · [fusionsoftware.com/decisioncouncil](https://fusionsoftware.com/decisioncouncil)
+**By Fusion Software** · [www.fusionsoftware.com/decision-council/](https://www.fusionsoftware.com/decision-council/)
 
 ---
 
